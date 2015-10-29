@@ -1,0 +1,23 @@
+name: Sirikirpal
+favicon: null
+layout_spectrum: 0.852030826266855
+typography_spectrum: 0.8032098673284054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5204903301782906
+  lightness: 0.6388220004737377
+  saturation: 0.04809627262875438
+  rhythmicContrast: 0.055068739922717214
+purpose: []
